@@ -30,12 +30,15 @@ newHeader.style.textDecoration = "underline";
 
 document.title = ("New Test Title!");
 
+
+/*  Notes below on Task 5
+
 let newP = document.createElement(p);
 newP.textDocument = "Hello, world I love this";
 document.(#proof-section).appendChild(newP);
 
 
-
-/*
 var div = document.getElementyById("yourDivId");
-div.appendChild("yourContent");
+div.appendChild("yourContent")
+
+*/
